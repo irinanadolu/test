@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_1">
+    <title>topic 1</title>
+    <prolog>
+        <author type="contributor">irina_nadolu</author>
+        <critdates>
+            <!--irina_nadolu-->
+            <revised modified="2018/02/23"/>
+        </critdates>
+    </prolog>
+    <body>
+        <section id="sec1">
+            <title>Sectiune referita</title>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p id="p1"><b>Frank Patrick Herbert</b> (n. <xref
+                href="https://ro.wikipedia.org/wiki/8_octombrie" format="html" scope="external"
+                >8 octombrie</xref><xref href="https://ro.wikipedia.org/wiki/1920" format="html"
+                    scope="external">1920</xref> – d. <xref
+                        href="https://ro.wikipedia.org/wiki/11_februarie" format="html" scope="external"
+                        >11 februarie</xref><xref href="https://ro.wikipedia.org/wiki/1986"
+                            format="html" scope="external">1986</xref>) a fost un scriitor american de <xref
+                                href="https://ro.wikipedia.org/wiki/Science_fiction" format="html"
+                                scope="external">science fiction</xref>, aclamat atât de marele public cât și de
+                critici, care a avut, în același timp, un mare succes comercial. Este bine cunoscut
+                pentru romanul <i><xref href="https://ro.wikipedia.org/wiki/Dune" format="html"
+                    scope="external">Dune</xref></i> și cele cinci continuări ale acestuia.
+                <xref href="https://ro.wikipedia.org/wiki/Seria_Dune" format="html"
+                    scope="external">Universul Dune</xref>, care este plasat în viitorul îndepărtat
+                al omenirii, tratează teme majore precum sunt supraviețuirea rasei umane, revoluția,
+                involuția și evoluția, ecologia, <xref
+                    href="https://ro.wikipedia.org/wiki/Terraformare" format="html" scope="external"
+                    >terraformarea</xref>, intersectându-se adesea cu alte teme general umane precum
+                sunt filozofia, gândirea, religia, politica și puterea. Opera sa se numără printre
+                operele clasice din literatura de science fiction. <i>Dune</i> este "cel mai
+                bine-vândut roman <xref href="https://ro.wikipedia.org/wiki/Science_fiction"
+                    format="html" scope="external">science fiction</xref> al tuturor timpurilor",
+                iar seria este considerată printre clasicele genului.</p>
+        </section>
+        <section>
+            <title>Sectiune nereferita</title>
+            <p>hhh</p>
+        </section>
+    </body>
+</topic>
